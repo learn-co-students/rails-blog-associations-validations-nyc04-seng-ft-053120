@@ -7,6 +7,7 @@ gem 'sass-rails'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'uglifier'
 gem 'bootsnap'
+gem 'sprockets-rails', '2.3.3'
 
 gem 'sqlite3', '~>1.3.6'
 
